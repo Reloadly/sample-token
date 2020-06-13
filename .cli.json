@@ -1,0 +1,10 @@
+{
+  "name": "sample-token",
+  "configureDotEnv": false,
+  "integrations": [
+    {
+      "name": "main",
+      "servers": ["c-sharp","java", "node", "php", "python", "shell"]
+    }
+  ]
+}
